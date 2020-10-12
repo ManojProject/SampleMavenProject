@@ -34,12 +34,12 @@
     <repository>
         <id>central</id>
         <name>nexus_release</name>
-        <url>http://localhost:8083/repository/nexus_release</url>
+        <url>http://localhost:8083/repository/nexus_release/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
       <name>nexus_snapshot</name>
-      <url>http://localhost:8083/repository/nexus_snapshot</url>
+      <url>http://localhost:8083/repository/nexus_snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
