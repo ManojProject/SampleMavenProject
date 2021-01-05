@@ -11,6 +11,11 @@
    <maven.compiler.source>1.8</maven.compiler.source>
    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
+  <scm>
+   <connection>scm:git:https://github.com/user/project.git</connection>
+   <url>http://github.com/user/project</url>
+   <developerConnection>scm:git:https://github.com/user/project.git</developerConnection>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
