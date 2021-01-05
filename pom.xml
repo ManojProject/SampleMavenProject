@@ -12,9 +12,9 @@
    <maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   <scm>
-   <connection>scm:git:https://github.com/user/project.git</connection>
-   <url>http://github.com/user/project</url>
-   <developerConnection>scm:git:https://github.com/user/project.git</developerConnection>
+   <connection>scm:git:https://github.com/ManojProject/SampleMavenProject.git</connection>
+   <url>https://github.com/ManojProject/SampleMavenProject</url>
+   <developerConnection>scm:git:https://github.com/ManojProject/SampleMavenProject.git</developerConnection>
   </scm>
   <dependencies>
     <dependency>
