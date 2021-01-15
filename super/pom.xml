@@ -3,7 +3,7 @@
 <groupId>com.example</groupId>
 <artifactId>super</artifactId>
   <packaging>pom</packaging>
-  <version>1.7</version>
+  <version>1.8-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 <properties>
@@ -14,7 +14,7 @@
    <connection>scm:git:https://github.com/ManojProject/SampleMavenProject.git</connection>
    <url>https://github.com/ManojProject/SampleMavenProject/tree/3.3-DEV/super</url>
    <developerConnection>scm:git:https://github.com/ManojProject/SampleMavenProject.git</developerConnection>
-    <tag>super-1.7</tag>
+    <tag>HEAD</tag>
   </scm>
 <dependencies>
 <dependency>
