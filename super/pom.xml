@@ -3,7 +3,7 @@
 <groupId>com.example</groupId>
 <artifactId>super</artifactId>
   <packaging>pom</packaging>
-  <version>1.9-SNAPSHOT</version>
+  <version>1.10-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
 <properties>
